@@ -1,0 +1,6 @@
+2025-11-02T08:16:08.277649 | BLOCKED | IP: 127.0.0.1 | Method: GET | Path: login.php | Score: 10
+2025-11-02T08:40:53.184627 | BLOCKED | IP: 127.0.0.1 | Method: GET | Path: login.php | Score: 10
+2025-11-02T08:51:15.864789 | BLOCKED | IP: 127.0.0.1 | Method: GET | Path: login.php | Score: 10
+2025-11-03T08:34:27.342088 | BLOCKED | IP: 127.0.0.1 | Method: GET | Path:  | Score: 6
+2025-11-03T08:34:57.338737 | BLOCKED | IP: 127.0.0.1 | Method: GET | Path: login.php | Score: 6
+2025-11-03T08:35:06.480105 | BLOCKED | IP: 127.0.0.1 | Method: POST | Path: login.php | Score: 6

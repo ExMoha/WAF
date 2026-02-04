@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+caption {
+    font-size: 1.5em;
+    margin: 10px 0;
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: darkgray;
+    color: white;
+}
+
+tfoot {
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
